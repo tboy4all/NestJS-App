@@ -396,6 +396,7 @@ Temporary Items
 # Local
 docker.env
 .env
+rabbitmq.env
 dist
 .webpack
 .serverless/**/*.zip
